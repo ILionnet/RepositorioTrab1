@@ -7,3 +7,9 @@ private void OpenChest()
     {
 
     }
+
+private void Update()
+
+    {
+
+    }
