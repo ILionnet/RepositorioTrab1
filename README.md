@@ -1,3 +1,3 @@
-# RespositorioTrab1
+# RepositorioTrab1
 
 Trabalho 1 de Jogos para consoles.
